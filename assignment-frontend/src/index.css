@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #111111;
+  --color-myred: #DF4739;
+  --color-mygreen: #20BC3F;
+}
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+
+  color: #ffffff;
+  background-color: var(--color-background);
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
