@@ -1,6 +1,4 @@
-# Palo.ai - Take Home Assignment, Frontend Team
-
-Hello, I am Saharat. Here is my work:
+# frontend-react-llm-chat-demo
 
 ### Frontend
 
